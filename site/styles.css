@@ -1,0 +1,87 @@
+body{
+	font-family: SourceSansPro, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+	background-color: #a10000;
+}
+hsimg:hover{
+	width: 550px;
+}
+.hsimg{
+	width: 357px;
+	height: 310px;
+	transition: width .5s;
+}
+.bottom-middle{
+	position: absolute;
+	top: 35%;
+	left: 50%;
+}
+#first{
+	background-color: inherit;
+}
+u{
+	text-decoration: underline;
+	text-decoration-color: #f2a900;
+}
+.heading-logo{
+	width: 100px;
+	float: left;
+	
+}
+ul.nav{
+	display: inline-block;
+	width: 100%;
+	float: left;
+}
+table{
+	background-color: inherit;
+	width: 100%;
+}
+.jumbotroned{
+	background-color: #006ba1;
+}
+a:hover{
+	color: #f2a900;
+}
+a{
+	transition: color 1s;
+}
+a.btn{
+	color: black;
+	font-weight: bold;
+}
+.btn:hover{
+	background-color: #007cba;
+}
+.btn{
+	transition: background-color .5s;
+}
+.stripe{
+	float: center;
+}
+.btorange{
+	color: #f2a900;
+}
+.cite{
+	text-align: center;
+	font-style: normal;
+}
+.quote-color{
+	background-color: #081e31;
+	color: white;
+}
+.white{
+	color: white;
+}
+.hsfirst{
+	text-align: center;
+}
+footer{
+	background-color: #007cba;
+}
+.launch{
+	background-color: inherit;
+	text-align: center;
+}
+.btn-event{
+	
+}
